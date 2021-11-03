@@ -1,11 +1,11 @@
-Responsive Web Design Project n°1 sur Freecodecamp
+📌 Responsive Web Design Project n°1 sur Freecodecamp 🌞
 
         "Build a tribute page"
 
-Construire une page hommage d'un artiste en suivant les recommandations demandées.
+🏗️ Construire une page hommage d'un artiste en suivant les recommandations demandées.
 Pour ma part, j'ai choisi Whitney Houston.
 
-Temps : 
+⏱️Temps : 
 
     * 2h wireframe et maquette
     * 0h20 la création du dossier et le fichier index
@@ -13,7 +13,7 @@ Temps :
     * 3h15 la création du contenu de la page
     * 3h30 responsivité
 
-Outils utilisés : 
+🛠️ Outils utilisés : 
 
     * Figma
     * Visual Studio Code
@@ -21,12 +21,12 @@ Outils utilisés :
     * Validator.w3.org
     * Lighthouse
 
-Langages utilisés : 
+💻 Langages utilisés : 
 
     * HTML5
     * CSS3
 
-Charte graphique : 
+🌈 Charte graphique : 
 
     * Vivaldi
     * Roboto 
@@ -36,26 +36,26 @@ Charte graphique :
         #f2f2f2
         white
 
-Sources d'inspiration : 
+💡 Sources d'inspiration : 
 
     * Conrad stel sur Onepagelove
 
-Images : 
+📸 Images : 
 
     * Pinterest
     * Gettyimages
 
-Versionning : 
+🐱 Versioning : 
 
     * Git
     * GitHub
 
-Vidéos suivies : 
+📽️ Vidéos suivies : 
 
     * Chaîne Djé Graphik https://www.youtube.com/watch?v=oBcbcmYfSLk
     * Chaîne Jessica Trocmé https://www.youtube.com/watch?v=FzflOBDjwmM
 
-Etapes que j'ai suivi pour pouvoir développer ce projet :
+✔️ Etapes que j'ai suivi pour pouvoir développer ce projet :
 
     1 * Création d'un wireframe desktop
     2 * Création de la maquette desktop
