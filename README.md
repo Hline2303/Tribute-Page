@@ -5,6 +5,8 @@
 🏗️ Construire une page hommage d'un artiste en suivant les recommandations demandées.
 Pour ma part, j'ai choisi Whitney Houston.
 
+Lien de la page : https://github.com/Hline2303/Tribute-Page
+
 ⏱️Temps : 
 
     * 2h wireframe et maquette
